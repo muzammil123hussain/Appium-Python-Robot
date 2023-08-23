@@ -15,6 +15,8 @@ ${ANDROID_PLATFORM_VERSION}     %{ANDROID_PLATFORM_VERSION=11}
 Should send keys to search box and then check the value
     [Tags]    mobile
     Open Test Application
+    Element Should Be Visible    android:id/text1
+    Click Element    android:id/text1
     Log To Console    mobile test pass
 
 
