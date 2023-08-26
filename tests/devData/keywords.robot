@@ -12,7 +12,6 @@ Open Test Application
     ...    platformVersion=${ANDROID_PLATFORM_VERSION}
     ...    app=${ANDROID_APP}
 
-
 Navigate Back
     [Arguments]    ${counter}
     ${x}=    Set Variable    ${0}
