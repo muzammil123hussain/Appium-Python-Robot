@@ -16,7 +16,6 @@ Navigate Back
     [Arguments]    ${counter}
     ${x}=    Set Variable    ${0}
     WHILE    ${x} < ${counter}
-        Log    Executed as long as the condition is True.
         Go Back
         ${x}=    Evaluate    ${x} + 1
     END
