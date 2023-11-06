@@ -13,5 +13,5 @@ Demo tutorial project for automating android mobile app test automation with app
 8. change desired capabilities in config file
 9. run robot tests/
 
-# Enjoy and learn Appium with python
-# Author - Muzammil Hussain (SQA - TEST Automation Engineer)
+## Enjoy and learn Appium with python
+## Author - Muzammil Hussain (SQA - TEST Automation Engineer)
